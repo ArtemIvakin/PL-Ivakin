@@ -1,0 +1,6 @@
+'company': None
+ 'created_at': 2017-01-04T14:52:39Z
+ 'email':None
+ 'id':24918050
+ 'name':None
+ 'url':https://api.github.com/users/nixpkgs
