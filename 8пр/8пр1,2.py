@@ -2,9 +2,9 @@ import random
 n = int(4)
 m = int(4)
 k = int(1)
-iN = int(0)
+iM = int(0)
 iX = int(0)
-jN = int(0)
+jM = int(0)
 jX = int(0)
 maxx=int(0)
 minn=int(100)
@@ -41,9 +41,9 @@ for i in range(n):
     null=A[iX][jX]
     A[iX][jX]=A[iM][jM]
     A[iM][jM]=null
-    iN = int(0)
+    iM = int(0)
     iX = int(0)
-    jN = int(0)
+    jM = int(0)
     jX = int(0)
     maxx=int(0)
     minn=int(100)
