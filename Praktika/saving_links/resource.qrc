@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>savedate/database.txt</file>
+    </qresource>
+</RCC>
